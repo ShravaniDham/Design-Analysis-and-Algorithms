@@ -20,7 +20,7 @@ class Item {
     }
 }
 
-public class Assignment2 {
+public class Assignment3 {
 
     // Compare by priority first, then value/weight
     static class ItemComparator implements Comparator<Item> {
@@ -98,3 +98,4 @@ public class Assignment2 {
         fractionalKnapsack(items, capacity);
     }
 }
+
