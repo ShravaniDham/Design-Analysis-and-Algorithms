@@ -1,5 +1,6 @@
-//Shravani Vinod Dham
-//123B1F023
+//PRN - 123B1F023
+//Name - Shravani Vinod Dham 
+//Date - 04/08/2025
 import java.util.*;
 
 class Item {
@@ -100,5 +101,6 @@ public class Assignment3 {
         fractionalKnapsack(items, capacity);
     }
 }
+
 
 
